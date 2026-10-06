@@ -1,0 +1,23 @@
+# Virtual environment
+.venv/
+
+# PyCharm project files
+.idea/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Pytest cache
+.pytest_cache/
+
+# Ruff cache
+.ruff_cache/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Generated ML files
+model.joblib
+metrics.json
